@@ -1,0 +1,75 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+h2{
+	color: black;
+	background-image: url(images/heading-bg.png) no-repeat center;
+
+}
+
+body{
+	background-color: black;
+}
+
+main{
+	width: 914.03px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.box1 img{
+	height: 600px;
+}
+
+#logo{
+	height: 90px;
+	width: 90px;
+	background-color: red;
+	border-radius: 50%;
+	margin-top: -50px;
+	margin-left: 400px;
+	position: relative;
+}
+
+#logo img{
+	height: 90px;
+	width: 90px;
+}
+
+.box{
+	background-color: red;
+}
+
+	
+#tablea{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#table{
+	width: 600px;
+	height: 400px;
+	align-items: center;
+	padding: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+}
+
+td{
+   color: white;
+   
+}
+
+#imagesection{
+	position: relative;
+	width: 100px;
+}
+
+#img{
+	width: 300px;
+	position: absolute;
+	right: ;
+}
